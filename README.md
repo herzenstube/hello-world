@@ -1,3 +1,3 @@
 # hello-world
 
-Not that I loved working less, but that I loved sleeping more.
+Not that I like to work less, but that I like to sleep more.
